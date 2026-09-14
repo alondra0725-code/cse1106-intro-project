@@ -1,2 +1,3 @@
-# cse1106-intro-project
-exactly what the title says.
+# CSE 1106
+
+This is a intro project
